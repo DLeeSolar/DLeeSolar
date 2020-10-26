@@ -2,7 +2,7 @@
 
 🔭 I'm currently working on a research paper to compare our methods of finding quasi-separatrix layers with the methods of another author. 
 
-🌱 I'm learning better git practice, Java and Puppet. I've recently started looking at JavaScript and Lua too. 
+🌱 I'm learning better git practice, Java and Puppet. I've recently started looking at Lua too. 
 
 <!--
 **DLeeSolar/DLeeSolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
