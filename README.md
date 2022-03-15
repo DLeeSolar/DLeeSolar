@@ -1,8 +1,8 @@
 ### About Me
 
-🔭 I'm currently working on a research paper to compare our methods of finding quasi-separatrix layers with the methods of another author. 
+🔭 I'm currently working with the team to expand our Data Science capabilities.
 
-🌱 I'm learning better git practice, Java, SQL and Puppet. I've recently started looking at Lua too, and have been playing around with Python. 
+🌱 I'm learning better Git practice, Python, SQL and Java. I've recently started looking at Lua, and have been playing around with Tableau, JS, CSS, and HTML.
 
 <!--
 **DLeeSolar/DLeeSolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
